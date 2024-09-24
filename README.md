@@ -1,6 +1,3 @@
-# aisolution
-AI Solution for RAG from CSV Using Ollama, Chroma, and Hugging Face
-
 # Bug History Search Assistant
 
 This project is an AI-powered bug history search assistant that leverages Retrieval Augmented Generation (RAG) to retrieve relevant bug reports from a CSV file and generate helpful answers for developers. It uses Ollama, FAISS, and Hugging Face embeddings to process the data, with an interface built using Streamlit.
